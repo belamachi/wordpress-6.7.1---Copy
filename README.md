@@ -36,6 +36,23 @@ Aroma Luxe offers a modern and responsive online store with intuitive navigation
 
 ---
 
+## 🛠️ Setting Up Locally
+To set up Aroma Luxe on your local machine, follow these steps:
+
+1. Install XAMPP
+Download and install XAMPP from the official website: https://www.apachefriends.org.
+Ensure that Apache, MySQL, and PHP are running.
+2. Download Project Files
+Clone or download the Aroma Luxe repository from GitHub to your local machine.
+3. Setup WordPress
+Extract the contents of the wordpress-6.7.1 - Copy/wordpress folder into the htdocs directory of your XAMPP installation (usually located at C:/xampp/htdocs).
+5. Create a Database
+Open phpMyAdmin by navigating to http://localhost/phpmyadmin/ in your web browser.
+Create a new database, e.g., wordpress.
+7. Import Database
+If you have a pre-existing database (wordpress.sql), import it into the database created:
+Open phpMyAdmin and select the database (wordpress).
+Click Import and choose the wordpress.sql file from the folder.
 ## 📂 Project Structure
 
 ```plaintext
