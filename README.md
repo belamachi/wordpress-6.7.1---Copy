@@ -41,6 +41,5 @@ Aroma Luxe offers a modern and responsive online store with intuitive navigation
 ```plaintext
 |-- wordpress-6.7.1 - Copy/
 |   `-- wordpress/
-|-- db/
-|   `-- wordpress.sql
+|-- wordpress.sql
 |-- README.md
